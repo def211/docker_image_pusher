@@ -1,2 +1,2 @@
-codercom/code-server:latest
+cloudflare/cloudflared:latest
 
