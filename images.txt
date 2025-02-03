@@ -1,3 +1,4 @@
 
 emby/embyserver:4.8.0.56
 hectorqin/reader
+xhofe/alist:latest
